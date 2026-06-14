@@ -45,7 +45,11 @@ Skills Demonstrated
 
 ![Top Teams](top_teams.png)
 
+## Toss Decision Analysis
 
+This visualization shows the distribution of toss decisions made by IPL teams.
+
+![Toss Decision Analysis](toss_decision.png)
 
 Author
 
