@@ -51,6 +51,28 @@ This visualization shows the distribution of toss decisions made by IPL teams.
 
 ![Toss Decision Analysis](toss_decision.png)
 
+## Top Player of the Match Winners
+
+This visualization shows the players who have won the most Player of the Match awards.
+
+![Top Players](top_players.png)
+
+---
+
+## Matches Played Per Season
+
+This line chart shows how the number of IPL matches has changed across seasons.
+
+![Matches Per Season](matches_per_season.png)
+
+---
+
+## Top IPL Host Cities
+
+This visualization highlights the cities that have hosted the most IPL matches.
+
+![Top Cities](top_cities.png)
+
 Author
 
 Umesh yadav 
