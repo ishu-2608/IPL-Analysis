@@ -41,6 +41,14 @@ Skills Demonstrated
 * Exploratory Data Analysis (EDA)
 * Statistical Insights
 
+## Key Insights
+
+- Mumbai Indians are the most successful IPL team.
+- Most teams prefer to field after winning the toss.
+- Certain players dominate Player of the Match awards.
+- Mumbai has hosted the highest number of IPL matches.
+- IPL seasons generally contain 60+ matches.
+
 ## Sample Visualization
 
 ![Top Teams](top_teams.png)
