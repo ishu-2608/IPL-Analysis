@@ -41,6 +41,12 @@ Skills Demonstrated
 * Exploratory Data Analysis (EDA)
 * Statistical Insights
 
+## Sample Visualization
+
+![Top Teams](top_teams.png)
+
+
+
 Author
 
 Umesh yadav 
